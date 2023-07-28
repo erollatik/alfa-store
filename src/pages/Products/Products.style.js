@@ -4,4 +4,7 @@ export default StyleSheet.create({
   container: {
     backgroundColor: 'black',
   },
+  button_container: {
+    backgroundColor: 'black',
+  },
 });
